@@ -7,10 +7,6 @@ icon: "/assets/icons/reddit.svg"
 # Reddit ReVanced Extended Features
 <i>Organized Reddit ReVanced Extended functionalities along with visual illustrations, arranged alphabetically.</i>
 
-!!!warning Warning
-The RVX Project has been discontinued.
-!!!
-
 ---
 ### Disable screenshot popup
 
