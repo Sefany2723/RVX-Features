@@ -146,26 +146,7 @@ This app hasn't been updated since January 2022 and as such it may not work prop
 - Audio downloads up to 128kbps in M4A and up to 160kbps in WebM
 - Swipe controls for volume and brightness
 - Ability to download playlists
- 
-+++ YTD
-#### Package name
-```
-dentex.youtube.downloader
-```
-[!button variant="secondary" text="📥 Download"](https://dentex.github.io/#version-822)
 
-==- Example image
-![](../assets/screenshots/YouTubeDownloader.jpg)
-===
-
-#### Features
-- Multi-threaded downloads: maximizes bandwidth available and minimizes YouTube’s speed throttling;
-- Support for almost any format/quality available from YouTube;
-- Audio extraction to aac/ogg or conversion to mp3 (menu available via single-click on items in the Dashboard tab);
-- Mp3’s ID3 tags edit;
-- Mux Audio-Only and Video-Only streams into a complete video (to enjoy HD resolutions available as separated streams only);
-- File management (menu available via long-click on items in the Dashboard tab);
-- Handle download link: copy and/or pass it to other apps;
 +++ Snaptube
 #### Package name
 ```
@@ -192,14 +173,10 @@ This app may shows ads.
 
 +++ Configure downloader for YT
 #### Set Downloader Package name
-- Navigate to the YouTube settings -> **ReVanced Extended**
-![](https://telegra.ph/file/4ba4d98071b5ca21ba3b6.jpg)
-- Tap: **Overlay button**
-![](https://telegra.ph/file/7f2899d24b945ec603bce.jpg)
-- Tap: **Downloader settings**
-![](https://telegra.ph/file/4dcb0065a0d8dc0fc5b2b.jpg)
+- Navigate to the YouTube settings -> **ReVanced**
+- Tap: **Player**
+- Tap: **External downloads**
 - Tap: **Downloader package name**
-![](https://telegra.ph/file/40acfc04c67a39f653d85.jpg)
 - Please input the _package name_ for the app you wish to configure and then click the **OK** button.
 ![The package org.schabi.newpipe belongs to NewPipe. If you prefer a different downloader, please paste its corresponding package here.](https://telegra.ph/file/1423e0d30046fd4e735c0.jpg)
 
