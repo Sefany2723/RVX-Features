@@ -27,7 +27,7 @@ image: /assets/cover/revanced_mmt.jpg
 ### ReVanced Extended Features
 - [YT RVX Features](RVX-Features/YT-RVX-features/YT-RVX-Features.md)
 - [YTM RVX Features](RVX-Features/YTM-RVX-features/YTM-RVX-Features.md)
-- [Reddit RVX Features](RVX-Features/YTM-RVX-Features.md)
+- [Reddit RVX Features](RVX-Features/reddit.md)
 
 ---
 
