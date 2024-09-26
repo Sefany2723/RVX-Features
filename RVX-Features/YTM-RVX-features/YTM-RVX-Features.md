@@ -1,5 +1,5 @@
 ---
-label: "YT Music RVX Featu res"
+label: "YT Music RVX Features"
 order: 98
 icon: "/assets/icons/ytm-rvx.svg"
 ---
